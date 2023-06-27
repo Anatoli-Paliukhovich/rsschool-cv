@@ -42,7 +42,7 @@ Supervisors, as well as work independently with little or no
 supervision. 
 ***
 ####Technical Skills
-` HTML & CSS` ` JavaScript` ` SCSS` ` React` ` Git`
+` HTML & CSS ` ` JavaScript ` ` SCSS ` ` React ` ` Git `
 ***
 ####Personal Skills
 ` good judgment` ` positive team player` ` ability to work for long hours` ` have the eye for detail` ` willingness to learn and grow as a professional`
@@ -59,7 +59,6 @@ __Speciality:__ frontend developer
 ***
 ####Level of English
 - [x]  C1
-
 
 
 
