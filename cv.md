@@ -1,18 +1,19 @@
-### Curriculum Vitae
+## Curriculum Vitae
 
 ![myphoto](photo.png)
 
-***
-
-#### Personal Information
+### Personal Information
 __Name:__	Anatoli Paliukhovich 
+
 __Telephone:__	+375 29 824 43 25
+
 __E-mail:__	humanities5050@gmail.com
+
 __LinkedIn:__ [LinkedIn](www.linkedin.com/in/anatoli-paliukhovich-545b07215)
 
 ***
 
-#### Working Experience
+### Working Experience
 __Name of the organisation:__ secondary school №26, Brest
 __Working period:__ february 2020 - current
 __Position held:__ teacher of the English language
@@ -48,17 +49,17 @@ supervision.
 
 ***
 
-#### Technical Skills
+### Technical Skills
 `HTML & CSS` `JavaScript` `SCSS` `React` `Git`
 
 ***
 
-#### Personal Skills
+### Personal Skills
 `good judgment` `positive team player` `ability to work for long hours` `have the eye for detail` `willingness to learn and grow as a professional`
 
 ***
 
-#### Code Example
+### Code Example
 __Creation of forms and JS events of forms__
 ```
 const mainForm = document.forms.main;
@@ -78,7 +79,7 @@ mainFormFile.addEventListener('change', function (event) {
 
 ***
 
-#### Education and Training
+### Education and Training
 __Name of the institution:__ Baranovichi State University
 __Period of studying:__ september 2008 - june 2013
 __Qualification awarded:__ teacher
@@ -90,9 +91,6 @@ __Speciality:__ frontend developer
 
 ***
 
-#### Languages
-- [x] Russian - Native 
-- [x] English - Upper-intermediate
-
-
-
+### Languages
+[x]  Russian - Native 
+[x]  English - Upper-intermediate
