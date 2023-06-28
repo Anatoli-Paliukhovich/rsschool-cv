@@ -7,7 +7,7 @@
 __Name:__	Anatoli Paliukhovich   
 __Telephone:__	+375 29 824 43 25  
 __E-mail:__	humanities5050@gmail.com  
-__LinkedIn:__ [LinkedIn](www.linkedin.com/in/anatoli-paliukhovich-545b07215)  
+__LinkedIn:__ [LinkedIn](https://www.linkedin.com/in/anatoli-paliukhovich-545b07215/)  
 
 ***
 
