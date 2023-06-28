@@ -4,20 +4,19 @@
 
 ### Personal Information
 
-__Name:__	Anatoli Paliukhovich 
-__Telephone:__	+375 29 824 43 25
-__E-mail:__	humanities5050@gmail.com
-__LinkedIn:__ [LinkedIn](www.linkedin.com/in/anatoli-paliukhovich-545b07215)
+__Name:__	Anatoli Paliukhovich   
+__Telephone:__	+375 29 824 43 25  
+__E-mail:__	humanities5050@gmail.com  
+__LinkedIn:__ [LinkedIn](www.linkedin.com/in/anatoli-paliukhovich-545b07215)  
 
 ***
 
 ### Working Experience
 
-__Name of the organisation:__ secondary school №26, Brest
-__Working period:__ february 2020 - current
-__Position held:__ teacher of the English language
-__Main responsibilities as a teacher:__ 
-
+__Name of the organisation:__ secondary school №26, Brest  
+__Working period:__ february 2020 - current  
+__Position held:__ teacher of the English language  
+__Main responsibilities as a teacher:__   
 * Organize and plan lessons. 
 * Have resources ready for the classroom. 
 * Study the subject matter and keep yourself abreast with current 
@@ -31,11 +30,10 @@ pertaining to the field of teaching.
 too
 
 
-__Name of the organisation:__ Carnival Cruise Lines, Miami, Florida
-__Working period:__ september 2015 - february 2020
-__Position held:__ casino dealer
-__Main responsibilities as a casino dealer:__ 
-
+__Name of the organisation:__ Carnival Cruise Lines, Miami, Florida  
+__Working period:__ september 2015 - february 2020  
+__Position held:__ casino dealer  
+__Main responsibilities as a casino dealer:__  
 * Possess a sound working knowledge of the CCCD Gaming 
 Manual. 
 * Deal all games to correct gaming procedures with minimum 
@@ -65,7 +63,7 @@ supervision.
 
 ### Code Example
 
-__Creation of forms and JS events of forms__
+__Creation of forms and JS events of forms__  
 ```
 const mainForm = document.forms.main;
 const mainFormFile = mainForm.nameFile;
@@ -86,18 +84,18 @@ mainFormFile.addEventListener('change', function (event) {
 
 ### Education and Training
 
-__Name of the institution:__ Baranovichi State University
-__Period of studying:__ september 2008 - june 2013
-__Qualification awarded:__ teacher
-__Principal subjects:__ English, German
+__Name of the institution:__ Baranovichi State University  
+__Period of studying:__ september 2008 - june 2013  
+__Qualification awarded:__ teacher  
+__Principal subjects:__ English, German  
 
-__Name of the institution:__ RS School
-__Period of studying:__ june 2023 - current
-__Speciality:__ frontend developer
+__Name of the institution:__ RS School  
+__Period of studying:__ june 2023 - current  
+__Speciality:__ frontend developer  
 
 ***
 
 ### Languages
 
-* [x]  Russian - Native 
-* [x]  English - Upper-intermediate
+* [x]   Russian - Native   
+* [x]   English - Upper-intermediate  
