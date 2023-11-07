@@ -64,14 +64,12 @@ body {
 	min-height: 117px;
 }
 .header__container {}
-
 .header__body {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	padding: 15px;
 }
-
 .header__logo {}
 .header__logo img {
 	width: 70px;
@@ -79,7 +77,6 @@ body {
 	border-radius: 50%;
 	border: 1px solid #737373;
 }
-
 .header__logo img:hover {
 	border: 1.5px solid #4a4a4a;
 }
